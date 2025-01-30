@@ -17,12 +17,13 @@
 
 It is important to point out that when the vast majority of people talk about **REST**, they are **not** talking about what was originally described as "**REST**".
 
-**REST** became a label for most **HTTP APIs**.
+**REST** mostly became a label for any **HTTP API**.
 Sometimes with the restriction of, requiring that URLs be **nouns**.
+Sometimes with the restriction that the appropriate **verb** be used.
 
 Most **HTTP APIs** that were called "REST" were _not_ compliant with the original description.
 
-Therefore, it is disingenuous to compare GraphQL to the original definition of REST, since most people didn't seem to be doing that.
+Therefore, if GraphQL is being compared with what people used to do, it is disingenuous to compare GraphQL to the original definition of REST, since most people didn't seem to be doing that.
 
 ---
 
