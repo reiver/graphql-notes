@@ -8,3 +8,7 @@
 ---
 
 * [GraphQL: The Documentary](https://youtu.be/783ccP__No8)
+
+---
+
+* Can GraphQL take advantage of HTTP caching?
