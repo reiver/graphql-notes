@@ -43,7 +43,7 @@ From [What is GraphQL?](https://hygraph.com/learn/graphql):
 
 > When using REST, you’ll always be returned complete "datasets".
 
-That is **not** acurate.
+If "REST" means what people used to do then — that is **not** acurate.
 
 You can pick-and-choose what you want using regular HTTP APIs.
 
@@ -59,7 +59,7 @@ From [What is GraphQL?](https://hygraph.com/learn/graphql):
 
 >  When using REST [...] If you wanted to request information from x objects, you’d need to perform x REST API requests.
 
-That is **not** accurate.
+If "REST" means what people used to do then — that is **not** acurate.
 
 You can get multiple objects from a single request of a regular HTTP API.
 
