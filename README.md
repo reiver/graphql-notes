@@ -23,7 +23,7 @@ Sometimes with the restriction that the appropriate **verb** be used.
 
 Most **HTTP APIs** that were called "REST" were _not_ compliant with the original description.
 
-Therefore, if GraphQL is being compared with what people used to do, it is disingenuous to compare GraphQL to the original definition of REST, since most people didn't seem to be doing that.
+Therefore, if GraphQL is being compared with _what people used to do_, it is disingenuous to compare GraphQL to the original definition of REST, since most people didn't seem to be doing that.
 
 ---
 
