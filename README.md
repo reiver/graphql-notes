@@ -12,3 +12,7 @@
 ---
 
 * Can GraphQL take advantage of HTTP caching?
+
+---
+
+* [What is GraphQL?](https://hygraph.com/learn/graphql)
