@@ -22,7 +22,7 @@ Sometimes with the restriction of, requiring that URLs be **nouns**.
 
 Most **HTTP APIs** that were called "REST" were _not_ compliant with the original description.
 
-Therefore, it is disingenuous to compare GraphQL to the original definition of REST, since most people didn't use that.
+Therefore, it is disingenuous to compare GraphQL to the original definition of REST, since most people didn't seem to be doing that.
 
 ---
 
