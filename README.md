@@ -15,7 +15,7 @@
 
 **GraphQL** is often compared to **REST**.
 
-It is important to point out that when the vast majority of people talk about **REST**, they are **not** talking about what was originally described as "**REST**".
+It is important to point out that when the vast majority of people talked about **REST**, they are **not** talking about what was originally described as "**REST**".
 
 **REST** mostly became a label for any **HTTP API**.
 Sometimes with the restriction of, requiring that URLs be **nouns**.
