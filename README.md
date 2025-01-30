@@ -6,7 +6,9 @@
 ---
 
 * Isn't GraphQL more or less just SQL exposed through HTTP? — which is an old idea.
-  * <a href="http://reiver.link/"><abbr title="Charles Iliya Krempeaux">Me</abbr></a> and someone else at Electronic Arts (EA) did this back in the year 2013. 
+  * <a href="http://reiver.link/"><abbr title="Charles Iliya Krempeaux">Me</abbr></a> and someone else at Electronic Arts (EA) did this back in the year 2013.
+  * and <a href="http://reiver.link/"><abbr title="Charles Iliya Krempeaux">I</abbr></a> (also) did this back in 2004.
+  * I doubt we were the only ones.
 * Could the GraphQL _query_ have been encoded into the URL rather than the HTTP body? — to take advantage of different HTTP features.
 
 ---
