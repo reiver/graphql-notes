@@ -1,1 +1,1 @@
-# graphql-notes
+# GraphQL Notes
