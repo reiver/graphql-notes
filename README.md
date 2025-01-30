@@ -11,6 +11,19 @@
 
 ---
 
+**GraphQL** is often compared to **REST**.
+
+It is important to point out that when the vast majority of people talk about **REST**, they are **not** talking about what was originally described as "**REST**".
+
+**REST** became a label for most **HTTP APIs**.
+Sometimes with the restriction of, requiring that URLs be **nouns**.
+
+Most **HTTP APIs** that were called "REST" were _not_ compliant with the original description.
+
+Therefore, it is disingenuous to compare GraphQL to the original definition of REST, since most people didn't use that.
+
+---
+
 * [GraphQL: The Documentary](https://youtu.be/783ccP__No8)
 
 ---
